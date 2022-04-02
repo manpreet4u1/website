@@ -575,7 +575,7 @@ padding-top: 70px;
     padding: 70px 0px;
 }
 .white-tent{
-    background-image:url('../images/5e856e41c718420c18dd6751_patrick-hendry-eDgUyGu93Yw-unsplash.jpg');
+    background-image:  linear-gradient(360deg, #222, rgba(34, 34, 34, 0)), url('../images/5e856e41c718420c18dd6751_patrick-hendry-eDgUyGu93Yw-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 300px;
